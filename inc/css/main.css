@@ -1,0 +1,26 @@
+html, body {
+  height: 100%;
+  margin: 0;
+}
+#page {
+  padding-bottom: 197px;
+  min-height: 100%;
+  margin: 0 auto -197px;
+}
+.footer{
+  height: 197px;
+  color: #34495e;
+}
+.footer .col-7 a {
+  color: #16a085;
+}
+h5 {
+  color: #34495e;
+}
+small {
+  color: rgba(52, 73, 94, 0.5);
+}
+
+.login{
+    padding: 38px 38px 0px 38px;
+}
