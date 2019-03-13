@@ -36,7 +36,7 @@ foreach($headers as $key => $value){
 }
 
 
-if ($id == NULL) {
+if ($id === NULL) {
 	echo "ERROR|3";
 } else {
 	echo $row['telescopio']."|".$row['from_data']."|".$row['to_data']."|".$row['mc']."\n";
